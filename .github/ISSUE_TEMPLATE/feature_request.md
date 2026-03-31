@@ -18,6 +18,8 @@ type: Feature
 
 <!-- What problem does this solve? -->
 
+**Sample ID(s) for testing (optional):**
+
 **Scope (optional):**
 
 **Notes (optional):**
