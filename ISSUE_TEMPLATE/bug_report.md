@@ -64,6 +64,11 @@ Paste relevant logs or error messages here
   * [ ] No
   * [ ] Unknown
 
+* **Fix Impacts SOP:**
+
+  * [ ] Yes
+  * [ ] No
+
 ---
 
 ## ✅ For Internal Use (Filled During Triage / Fix)
@@ -77,7 +82,6 @@ Paste relevant logs or error messages here
 ### 🚀 Release Information
 
 * **Fixed In Version:**
-* **Patch / Release ID:**
 
 ---
 
@@ -89,4 +93,8 @@ Paste relevant logs or error messages here
   * [ ] Yes
   * [ ] No
 
+* **SOP Updated:**
+
+  * [ ] Yes
+  * [ ] NA
 ---
